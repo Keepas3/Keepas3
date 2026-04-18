@@ -1,12 +1,38 @@
-- 👋 Hi, I’m Bryan Fung
-- 👀 I’m an inspiring Software Engineer/ Full Stack Developer
-- 🧠 I'm currently working on: Discord Clone Java, SJU Campus Hub, YT Downloader,and Discord Bot
-- 🌱 I’m currently learning Javascript specifically node and react, C++, and C
-- 💞️ I’m open to collaborate on all kinds of projects
-- 📫 You can reach me: https://www.linkedin.com/in/bryan-fung-a2a089256/ 
-- ⚡ Fun fact: My favorite song is Pjanoo by Eric Prydz
+# Hey there! 👋 I'm Bryan Fung
 
-<!---
-Keepas3/Keepas3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###  A passionate Full Stack Developer & Systems Programmer
+
+
+---
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+
+---
+
+
+### 🌱 Currently Exploring
+Refining my skills in **Distributed Systems** and **AI Integration** to build more scalable, intelligent applications.
+
+
+
+### 🚀 Check out my Projects
+* **SJU Campus HUB**: 1st Place Hackathon winner, a Hub built to connect the community of SJU.
+* **Dragon Bot**: A comprehensive Discord application for Clash of Clans management.
+* **AdaptIQ**: 34d Place Hackathon for 2026, an AI-integrated PowerPoint productivity tool.
+
+
+
+### 💬 Ask me about
+Full-stack development, back-end development, systems programming, or chess.
+
+
+
+### 📊 My GitHub Metrics
+![Metrics](./github-metrics.svg)
+
+---
+[View My Website](https://bryan-portfoliodev.vercel.app/) | [Connect on LinkedIn](https://www.linkedin.com/in/bryan-fung-a2a089256/)
