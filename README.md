@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Bryan Fung
 
-###  A passionate Full Stack Developer & Software engineer
+###  A passionate Full Stack Developer from the United States
 
 [View My Website](https://bryan-portfoliodev.vercel.app/) | [Connect on LinkedIn](https://www.linkedin.com/in/bryan-fung-a2a089256/)
 
@@ -29,7 +29,7 @@ Refining my skills in **Distributed Systems** and **AI Integration** to build mo
 <br>
 
 ### 💬 Ask me about
-Full-stack development, back-end development, chess, or music
+Full-stack development, software engineering, systems programming or chess.
 
 <br>
 
